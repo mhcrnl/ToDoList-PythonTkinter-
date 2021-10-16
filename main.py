@@ -4,7 +4,9 @@
 from tkinter import *
 from tkinter import messagebox
 # --------------------------------------------------------
-
+"""
+    run: python3 main.py
+"""
 
 class Window:
     def __init__(self, width, height, x, y, title, resizable=(False, False), icon=None):
